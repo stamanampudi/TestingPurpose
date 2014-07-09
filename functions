@@ -1,0 +1,7 @@
+def pppp
+     puts "fuck off this is"
+end
+
+pppp
+
+$ends 
