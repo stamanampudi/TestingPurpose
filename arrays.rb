@@ -10,5 +10,6 @@ i=0
 while(i<family_type.length)
     puts family_type[i]
     i=i+1
-end    
+end 
+#hbjhbjhb
 $end
