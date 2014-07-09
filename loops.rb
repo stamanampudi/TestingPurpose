@@ -1,4 +1,4 @@
-#Random comment
+#Random comment2
 i=0
 while i<10
 puts i;
